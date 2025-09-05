@@ -61,6 +61,6 @@ El objetivo es documentar el aprendizaje de los conceptos teóricos y prácticos
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguaje principal:** Python 🐍  
+- **Lenguaje principal:** Python, R 🐍  
 - **Frameworks:** TensorFlow, Keras, PyTorch  
 - **Otras librerías:** NumPy, Pandas, Matplotlib, Scikit-learn  
